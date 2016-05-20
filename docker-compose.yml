@@ -1,0 +1,7 @@
+daisylanding:
+  build: .
+  ports:
+   - "81:80"
+   - "4001:4000"
+  volumes:
+   -  .:/srv/jekyll
