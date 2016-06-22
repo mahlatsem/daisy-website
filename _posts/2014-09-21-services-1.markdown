@@ -2,7 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: This will be the first service Provided
+title: Our Services
 description: |
 ---
-  Info on the service
+We are involved in assisting parents and their children as early as Grade 9 where the learners need to make choices regarding the subjects that they need to choose, all the way until Grade 12 , where the learners need to make choices regarding what career streams they should follow at tertiary institutions.
+
+Our Career guidance service is split into 2 different sessions:
