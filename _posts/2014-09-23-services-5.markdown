@@ -1,0 +1,12 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Phase 4 & 5
+description: |
+---
+### Phase 4:
+This is the last phase where a career practitioner will send a consolidated report to parents detailing career choices chosen by the learner and advising on career streams to choose, tertiary institutions, and the process followed to apply.
+
+### Phase 5 (Optional for Grade 12):
+This is an optional phase where Cultivating young minds offers a service of application on behalf of the learner at Tertiary institutions.

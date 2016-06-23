@@ -1,0 +1,15 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Phase 3 - Field Tours
+description: |
+---
+- These tours are based on career options where all learners which are part of the Career guidance program from different schools
+will be grouped and visit an organization offering those career options.
+
+- This is where learners will be taken for a tour in that specific organization, attend presentations given by key senior Managers in the organization, and be assigned a mentor for the day to get practical answers to their questions.
+After this tour, a learner will have a clear understanding of what his/ her career choice entails practically and be able to
+make informed decisions.
+
+- Post the tour – Learners will have brief group sessions with career PR actioners and this is where learners will short list at least top two career options of their choices.
