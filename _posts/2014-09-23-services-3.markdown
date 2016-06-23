@@ -2,13 +2,9 @@
 layout: default
 img: phones.png
 category: Services
-title: Groups Career Guidance Sessions
+title: Phase 2 - Feedback Session
 description: |
 ---
-This is where  more than one learner will attend all the above steps.
-
-This  option is suitable for schools, where career Practitioners will visit a school and present the career options to learners in groups, provide learners with psychometric tests to be completed, and group tours.
-
-Feedback will be provided individual.
-
-Reports will also be sent to parents and schools thereafter.
+- Once Psychometric results are back, the career practitioner will schedule an appointment with the learner and the parent.
+- The feedback is based on the psychometric test results and the interview with the learner in phase 1.
+- The career practitioner will advise the learner on career options available in line with learner’s interest and the feedback.
